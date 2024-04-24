@@ -14,7 +14,7 @@ System.out.println("After popping: ");
 for(Integer integer:deque){
 System.out.println(integer);
 }
-deque.remove(3);
+deque.remove(2);
 System.out.println("After removing the element 3: "+deque);
 }
 }
